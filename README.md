@@ -3,7 +3,7 @@
         <img src="https://raw.githubusercontent.com/AhmedFathyDev/AhmedFathyDev/main/GitHub.png" alt="GitHub Octocat Drinking a Cup of Coffee" height="200">
     </div>
 <h1 align="center" >Hola 👋, soy Alex Geovanni</h1> 
-<h3 > Desarrollador jr</h3>
+<h3 > Desarrollador</h3>
 <p>Programador motivado por las tecnologías, experiencia en proyectos escolares y personales como desarrollador Front-End y Back-End.
 Los proyecto en los que he trabajado me han permitido desarrollar y perfeccionar mis habilidades.</p>
 
