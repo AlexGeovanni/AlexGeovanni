@@ -1,20 +1,5 @@
 
-<div align=center>
-        <img src="https://raw.githubusercontent.com/AhmedFathyDev/AhmedFathyDev/main/GitHub.png" alt="GitHub Octocat Drinking a Cup of Coffee" height="200">
-    </div>
-<h1 align="center" >Hola 👋, soy Alex Geovanni</h1> 
-<h3 > Desarrollador</h3>
-<p>Programador motivado por las tecnologías, experiencia en proyectos escolares y personales como desarrollador Front-End y Back-End.
-Los proyecto en los que he trabajado me han permitido desarrollar y perfeccionar mis habilidades.</p>
-
-<!-- CONTACTO -->
-<h3 align="left">Contactame:</h3>
-<p align="left">
-<a href="www.linkedin.com/in/alex-geovanni-diaz-dwf" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="david mendoza ramos" height="30" width="40" /></a>
-</p>
-
 <h3>Tecnologías</h3>
-<p>Conocimientos que he adquirido durante y despues mi carrera universitaria, que he puesto en práctica.</p>
 <p align="left"> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="50"
       height="50" /> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"
